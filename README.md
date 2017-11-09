@@ -1,6 +1,6 @@
-# sis2
+# Vue-AdminLTE
 
-> A Vue.js project
+> Sistema de modelo com Vue e AdminLTE
 
 ## Build Setup
 
