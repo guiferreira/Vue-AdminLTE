@@ -33,16 +33,15 @@ export default {
 </script>
 
 <style>
- @import url('assets/bower_components/bootstrap/dist/css/bootstrap.min.css');
- @import url('assets/bower_components/font-awesome/css/font-awesome.min.css');
- @import url('assets/bower_components/Ionicons/css/ionicons.min.css');
+@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+ @import url('../node_modules/font-awesome/css/font-awesome.min.css');
+ @import url('../node_modules/ionicons/dist/css/ionicons.min.css');
  @import url('assets/css/AdminLTE.min.css');
  @import url('assets/css/skins/_all-skins.min.css');
- @import url('assets/bower_components/morris.js/morris.css');
- @import url('assets/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css');
- @import url('assets/bower_components/bootstrap-daterangepicker/daterangepicker.css');
+ @import url('../node_modules/morris.js/morris.css');
+ @import url('../node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css');
+ @import url('../node_modules/bootstrap-daterangepicker/daterangepicker.css');
  @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic');
-
  /*
  @import url('');
 */
